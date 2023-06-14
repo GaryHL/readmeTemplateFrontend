@@ -3,33 +3,17 @@
 
 # Project v1.0
 
-Descripción del proyecto en un parrafo.
-
-## Tabla de contenidos
-- [Instalación](#Demo)
-- [Despliege del proyecto en Vercel ➡️](URL)
+## 📍 Tabla de contenidos
+- [Tabla de contenidos](#📍-Tabla-de-contenidos)
+- [Descripción general](#Descripción-general)
+- [Instalación](#Instalación)
 - [Repositorio de backend (necesario) ➡️](URL)
 
+## Descripción general
+Descripción del proyecto en un parrafo.
 
 
-## Demo
-![IMG DEMO](https://)
-
-## Características / Features
-
-- Caracteristica 1
-- Caracteristica 1
-- Caracteristica 1
-- [link](#Instalación)
-
-
-## Tecnologías usadas
-- React 
-- Tailwind
-- DaisyUI 
-- React hook form
-
-## Instalación
+## 🔧 Instalación
  1. Instalar las dependencias:
 ```
 $ npm install
@@ -40,5 +24,33 @@ $ npm install
 ```
 $ npm run dev
 ```
+
+## 🕹️ Demo
+![IMG DEMO](https://)
+
+## ⭐ Características / Features
+
+- Caracteristica 1
+- Caracteristica 1
+- Caracteristica 1
+- [link](#Instalación)
+
+
+## 🌐 Tecnologías usadas
+- React 
+- Tailwind
+- DaisyUI 
+- React-hook-form
+- React-icons
+
+
+## 👥 Equipo
+- [Eberth Castro](github.com/EberthCastro)
+- [Gary Lima](github.com/GaryHL)
+
+## ❤️Agradecimientos
+
+
+
 
 
