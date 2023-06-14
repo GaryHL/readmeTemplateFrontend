@@ -6,7 +6,7 @@
 ## 📍 Tabla de contenidos
 - [📍 Tabla de contenidos](#📍-Tabla-de-contenidos)
 - [📄 Descripción general](#📄-Descripción-general)
-- [🔧 Instalación](#🔧-Instalación)
+- [🔧 Instalación](#Instalación)
 - [🕹️ Demostración](#🕹️-Demostración)
 - [⭐ Características](#⭐-Características)
 - [🌐 Tecnologías usadas](#🌐-Tecnologías-usadas)
