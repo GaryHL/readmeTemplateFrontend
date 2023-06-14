@@ -6,9 +6,13 @@
 ## 📍 Tabla de contenidos
 - [Tabla de contenidos](#📍-Tabla-de-contenidos)
 - [Descripción general](#Descripción-general)
-- [Instalación](#Instalación)
-- [Repositorio de backend (necesario) ➡️](URL)
-
+- [Instalación](#🔧-Instalación)
+- [Demostración](#🕹️-Demostración)
+- [Características](#⭐-Características)
+- [Tecnologías usadas](#🌐-Tecnologías-usadas)
+- [Equipo](👥-Equipo)
+- [Agradecimientos](❤️-Agradecimientos)
+- 
 ## Descripción general
 Descripción del proyecto en un parrafo.
 
@@ -24,11 +28,14 @@ $ npm install
 ```
 $ npm run dev
 ```
+## 🖥️ Backend
+- El repositorio de backend es esencial para que el proyecto funcione correctamente, [Click para ingresar al repositorio backend](https://i.imgur.com)
 
-## 🕹️ Demo
+## 🕹️ Demostración
 ![IMG DEMO](https://)
 
-## ⭐ Características / Features
+
+## ⭐ Características
 
 - Caracteristica 1
 - Caracteristica 1
@@ -49,7 +56,7 @@ $ npm run dev
 - [Gary Lima](github.com/GaryHL)
 
 ## ❤️Agradecimientos
-
+Queremos expresar nuestro más sincero agradecimiento a los creadores de esta hackathon. Vuestra dedicación y esfuerzo en la organización de este evento han brindado una plataforma increíble para que podamos poner a prueba nuestras habilidades y colaborar con otros apasionados de la tecnología.
 
 
 
