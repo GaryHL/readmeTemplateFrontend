@@ -4,14 +4,14 @@
 # Project v1.0
 
 ## 📍 Tabla de contenidos
-- [📍 Tabla de contenidos](#📍-Tabla-de-contenidos)
-- [📄 Descripción general](#📄-Descripción-general)
+- [📍 Tabla de contenidos](#-Tabla-de-contenidos)
+- [📄 Descripción general](#-Descripción-general)
 - [🔧 Instalación](#Instalación)
-- [🕹️ Demostración](#🕹️-Demostración)
-- [⭐ Características](#⭐-Características)
-- [🌐 Tecnologías usadas](#🌐-Tecnologías-usadas)
-- [👥 Equipo](👥-Equipo)
-- [❤️ Agradecimientos](❤️-Agradecimientos)
+- [🕹️ Demostración](#-Demostración)
+- [⭐ Características](#-Características)
+- [🌐 Tecnologías usadas](#-Tecnologías-usadas)
+- [👥 Equipo](#-Equipo)
+- [❤️ Agradecimientos](#-Agradecimientos)
   
 ## 📄 Descripción general
 Descripción del proyecto en un parrafo.
