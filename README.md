@@ -55,7 +55,7 @@ $ npm run dev
 - [Eberth Castro](github.com/EberthCastro)
 - [Gary Lima](github.com/GaryHL)
 
-## ❤️Agradecimientos
+## ❤️ Agradecimientos
 Queremos expresar nuestro más sincero agradecimiento a los creadores de esta hackathon. Vuestra dedicación y esfuerzo en la organización de este evento han brindado una plataforma increíble para que podamos poner a prueba nuestras habilidades y colaborar con otros apasionados de la tecnología.
 
 
