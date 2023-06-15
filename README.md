@@ -18,7 +18,7 @@ Descripción del proyecto en un parrafo.
 
 
 ## 🔧 Instalación
- 1. Clonar el repositorio
+ 1. Clonar el repositorio:
   ```
   $ git clone [repositorio]  
   ``` 
