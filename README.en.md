@@ -16,14 +16,18 @@
 Project description in one paragraph.
 
 ## 🔧 Installation
-1. Install dependencies:
+1. Clone the repository:
+```
+$ git clone [link]
+```
+2. Install dependencies:
 ```
 $ npm install
 ```
 
-2. Create the ```.env``` file and configure the environment variables based on the ```.env_example``` file.
+3. Create the ```.env``` file and configure the environment variables based on the ```.env_example``` file.
 
-3. Start the development server:
+4. Start the development server:
 ```
 $ npm run dev
 ```
