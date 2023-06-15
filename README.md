@@ -18,13 +18,17 @@ Descripción del proyecto en un parrafo.
 
 
 ## 🔧 Instalación
- 1. Instalar las dependencias:
+ 1. Clonar el repositorio
+  ```
+  $ git clone [repositorio]  
+  ``` 
+ 2. Instalar las dependencias:
 ```
 $ npm install
  ```
- 2. Crea el archivo crea el archivo ```.env ``` y configura las variables de entorno en base a el archivo ```.env_example```
+ 3. Crea el archivo crea el archivo ```.env ``` y configura las variables de entorno en base a el archivo ```.env_example```
 
- 3. Inicializa el servidor de desarrollo:
+ 4. Inicializa el servidor de desarrollo:
 ```
 $ npm run dev
 ```
